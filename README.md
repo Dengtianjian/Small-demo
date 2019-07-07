@@ -1,7 +1,3 @@
-😄 My English is not very good, so these are all Google translations.
+一些小的Demo
 
-✨Some small demos
-
-💻It is practiced and saved.
-
-👀Thank you very much for watching.
+1.移动端无缝链接的轮播图
